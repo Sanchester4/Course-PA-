@@ -1,0 +1,55 @@
+The length of the grid is : 7 
+The highest number to generate the grid: 100
+
+===The generated matrix===
+
+ 42  68  35  1  70  25  79 
+
+ 59  63  65  6  46  82  28 
+
+ 62  92  96  43  28  37  92 
+
+ 5  3  54  93  83  22  17 
+
+ 19  96  48  27  72  39  70 
+
+ 13  68  100  36  95  4  12 
+
+ 23  34  74  65  42  12  54 
+
+
+
+===The Dynamic Programming Method===
+
+ 42  110  145  146  216  241  320 
+
+ 101  164  210  152  198  280  308 
+
+ 163  255  306  195  223  260  352 
+
+ 168  171  225  288  306  282  299 
+
+ 187  267  273  300  372  321  369 
+
+ 200  268  368  336  431  325  337 
+
+ 223  257  331  396  438  337  391 
+
+
+Minim value of Path is: 391 
+
+
+
+===The Backtracking Programming Method===
+
+ 42 59 62 5 19 13 23 34 74 65 42 12 54--The cost value =504
+ 42 59 62 5 3 54 48 27 36 95 4 12 54--The cost value =501
+ 42 59 62 5 3 54 48 27 72 39 4 12 54--The cost value =481
+ 42 59 63 65 6 43 28 37 22 39 4 12 54--The cost value =474
+ 42 68 35 65 6 43 28 37 22 39 4 12 54--The cost value =455
+ 42 68 35 1 6 43 28 83 22 39 4 12 54--The cost value =437
+ 42 68 35 1 6 43 28 37 22 39 4 12 54--The cost value =391
+
+
+===The best cost value [391] ===
+

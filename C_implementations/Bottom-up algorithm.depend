@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1589306454 source:c:\users\axente\documents\bottom-up algorithm\main.c
+	"functions.h"
+
+1589317331 c:\users\axente\documents\bottom-up algorithm\functions.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+
+1589318551 source:c:\users\axente\documents\bottom-up algorithm\functions.c
+	"functions.h"
+
+1590065194 source:c:\users\sero\desktop\c\bottom-up algorithm\functions.c
+	"functions.h"
+
+1590065194 c:\users\sero\desktop\c\bottom-up algorithm\functions.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+
+1590065212 source:c:\users\sero\desktop\c\bottom-up algorithm\main.c
+	"functions.h"
+
+1590139895 source:c:\users\sero\desktop\cornelprojectpa\pacproject\functions.c
+	"functions.h"
+
+1590139895 c:\users\sero\desktop\cornelprojectpa\pacproject\functions.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+
+1590138084 source:c:\users\sero\desktop\cornelprojectpa\pacproject\main.c
+	"functions.h"
+
+1590139895 source:c:\users\sero\desktop\cornelprojectpa\pacproject\backtrackingmethod.c
+	"functions.h"
+
+1590139895 source:c:\users\sero\desktop\cornelprojectpa\pacproject\dynamicmethod.c
+	"functions.h"
+
+1590139895 source:c:\users\sero\desktop\cornelprojectpa\pacproject\generator.c
+	"functions.h"
+
+1590139895 source:c:\users\sero\desktop\cornelprojectpa\c_implementations\backtrackingmethod.c
+	"functions.h"
+
+1590139895 c:\users\sero\desktop\cornelprojectpa\c_implementations\functions.h
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+
+1590139895 source:c:\users\sero\desktop\cornelprojectpa\c_implementations\dynamicmethod.c
+	"functions.h"
+
+1590139895 source:c:\users\sero\desktop\cornelprojectpa\c_implementations\functions.c
+	"functions.h"
+
+1590139895 source:c:\users\sero\desktop\cornelprojectpa\c_implementations\generator.c
+	"functions.h"
+
+1590180827 source:c:\users\sero\desktop\cornelprojectpa\c_implementations\main.c
+	"functions.h"
+
